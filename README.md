@@ -2,7 +2,7 @@
 
  this project was based on VIBE to realize the real-time capture of 3D actions by the camera. 
 
-`Official Project link:` https://github.com/mkocabas/VIBECancel 
+`Official Project link:` https://github.com/mkocabas/VIBE
 
 # Run
 pip install -r requirements.txt
