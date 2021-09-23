@@ -6,4 +6,5 @@
 
 # Run
 pip install -r requirements.txt
-python demo_v1.0.py
+
+`python demo_v1.0.py
